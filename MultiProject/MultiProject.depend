@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1624473893 source:/home/cadynf/Desktop/CProjects/MultiProject/main.cpp
+	<iostream>
+	<unistd.h>
+	<fstream>
+	<stdio.h>
+	<cstring>
+	<string>
+	<sstream>
+
